@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+    font-style: oblique;
+    font-family: Georgia;
+    
+}
+
+img {
+    width: 180px;
+    display: block;
+    margin:auto;
+}
+
+.phara {
+    text-align: justify;
+    font-family: Verdana;
+    letter-spacing: 3px;
+    word-spacing: 6px;
+    text-indent: 10%;
+}
+
+a {
+    text-decoration: none;
+    border: 3px solid black;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: black;
+    font-family: serif;
+    font-size: medium;
+    background-color: #1c7abe;
+}
+
+button {
+    background-color: #1c7abe;
+    padding: 9.6px 20px;
+    border-radius: 10px;
+    border: 3px solid black;
+    font-family: serif;
+    font-size: medium;
+    cursor: pointer;
+}
+
+a:hover, button:hover {
+    background-color:#3a8fcb;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.details {
+    font-family: sans-serif;
+    text-align: center;
+}
